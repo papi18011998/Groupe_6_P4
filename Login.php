@@ -29,7 +29,7 @@
 <main class="form-signin">
   <form>
     <img class="mb-4" src="/docs/5.0/assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">
-    <h1 class="h3 mb-3 fw-normal">Veullez vous Connecter</h1>
+    <h1 class="h3 mb-3 fw-normal">Veuillez vous Connecter</h1>
 
     <div class="form-floating">
     <label for="floatingInput">Votre Mail</label>
@@ -49,7 +49,7 @@
     </div>
   
     <button class="w-100 btn btn-lg btn-primary" type="submit"><a href="index.php">se connecter</a></button>
-    <p class="mt-5 mb-3 text-muted">&copy; 2021–2022</p>
+   
   </form>
 </main>
 
