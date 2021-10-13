@@ -14,7 +14,7 @@
   html,
 body {
   height: 100%;
-  background-image: image(images.jpg);
+  background-image:url(/Images/images.jpg);
 }
 
 body {
