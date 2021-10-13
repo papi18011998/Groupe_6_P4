@@ -32,7 +32,7 @@
     <h1 class="h3 mb-3 fw-normal">Veuillez vous Connecter</h1>
 
     <div class="form-floating">
-    <label for="floatingInput">Votre Mail</label>
+    <label for="floatingInput">Votre email</label>
       <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
      
     </div>
